@@ -1,0 +1,5 @@
+2000,Mazda,35000,Gris
+2020,Tesla,250000,Azul
+2011,Renault,21000,Verde
+2004,Toyota,70000,Blanco
+2018,Ferrari,350000,Rojo
